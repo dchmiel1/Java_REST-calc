@@ -1,8 +1,8 @@
 package expression;
 
-import javax.xml.bind.annotation.XmlRootElement;
+//import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
+//@XmlRootElement
 public class Expression{
 	private String firstNum;
 	private String op;
